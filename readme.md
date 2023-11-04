@@ -1,0 +1,1 @@
+VIAL for default crkbd/corne with the most QMK typing features activated 
